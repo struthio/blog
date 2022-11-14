@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Disable Intel Turbo Boost Technology"
-date:   2022-11-14 13:36:07 -0600
+date:   2022-11-14 13:36:07 +0100
 categories: M16 Windows
 ---
 I work a lot in Silet profile. Turbo Boost causes CPU to jump to 5GHz and causes CPU to get so hot that fans have to kick in. CPU have a lot of power that even without Turbo Boost should be sufficient to me.
